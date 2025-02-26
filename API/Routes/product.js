@@ -17,4 +17,4 @@ router.put('/:id',updateProductById)
 //delete product by id
 router.delete('./id',deleteProductById)
 
-// export default router
+ export default router
